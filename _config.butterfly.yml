@@ -5,11 +5,10 @@
 # Site
 title: Luckybear's Blog
 subtitle:
-  enable: true        # 开启副标题
-  effect: true        # 开启打字效果
-  source: 1           # 1 表示用 sub 里自定义的句子
+  enable: true       
+  effect: true             
   sub:
-    - Home is behind, the world ahead
+    - Home is behind, the world ahead.
 description: ''
 keywords:
 author: Jiayi Lu
